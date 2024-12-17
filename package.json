@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/GauRaVsinghbora/backend/issues"
   },
-  "homepage": "https://github.com/GauRaVsinghbora/backend#readme"
+  "homepage": "https://github.com/GauRaVsinghbora/backend#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
 }
