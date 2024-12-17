@@ -1,0 +1,23 @@
+{
+  "name": "chai-backend",
+  "version": "1.0.0",
+  "description": "a basic app to deploy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GauRaVsinghbora/backend.git"
+  },
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "author": "Gaurav singh bora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GauRaVsinghbora/backend/issues"
+  },
+  "homepage": "https://github.com/GauRaVsinghbora/backend#readme"
+}
